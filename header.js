@@ -4,7 +4,7 @@ document.write('\
 <nav class="navbar navbar-default navbar-fixed-top">\
   <div class="container">\
     <div class="navbar-header">\
-      <a class="navbar-brand brand" href="index.html">Programación 2</a>\
+      <a class="navbar-brand brand" href="index.html">Big Data Analytics</a>\
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">\
         <span class="icon-bar"></span>\
         <span class="icon-bar"></span>\
@@ -28,7 +28,7 @@ document.write('\
   <a href="https://www.unbosque.edu.co/">\
     <img src="images/unbosque-logo.jpg" class="logo-right">\
   </a>\
-  <h1>Programación 2: Desarrollo Web</h1>\
+  <h1>Big Data Analytics</h1>\
   <h3>Universidad El Bosque, 2021-II</h3>\
   <div style="clear:both;"></div>\
 </div>\
